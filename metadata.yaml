@@ -1,5 +1,8 @@
 _repo: Graham-s-Magazine-Vol-XXXV-No-6-December-1849_55396
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55396-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -33,6 +36,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48300
     wikipedia: https://en.wikipedia.org/wiki/Joseph_Ripley_Chandler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55396#Graham-s-Magazine-Vol-XXXV-No-6-December-1849
 gutenberg_issued: '2017-08-20'
 gutenberg_type: Text
 identifiers:
