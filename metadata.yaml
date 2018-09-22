@@ -1,0 +1,50 @@
+_repo: Graham-s-Magazine-Vol-XXXV-No-6-December-1849_55396
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editors:
+  - agent_name: Taylor, Bayard
+    aliases:
+    - Taylor, J. B.
+    - Taylor, J.B.
+    - Taylor, James Bayard
+    birthdate: 1825
+    deathdate: 1878
+    gutenberg_agent_id: '167'
+    url: http://www.gutenberg.org/2009/agents/167
+    wikipedia: http://en.wikipedia.org/wiki/Bayard_Taylor
+  - agent_name: Graham, George R.
+    alias: Graham, George Rex
+    birthdate: 1813
+    deathdate: 1894
+    gutenberg_agent_id: '33746'
+    url: http://www.gutenberg.org/2009/agents/33746
+  - agent_name: Chandler, Joseph R. (Joseph Ripley)
+    aliases:
+    - Chandler, J.R.
+    - Chandler, J. R.
+    birthdate: 1792
+    deathdate: 1880
+    gutenberg_agent_id: '48300'
+    url: http://www.gutenberg.org/2009/agents/48300
+    wikipedia: https://en.wikipedia.org/wiki/Joseph_Ripley_Chandler
+description: ''
+gutenberg_issued: '2017-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55396'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- Periodicals'
+- !lcc 'AP'
+- !lcsh 'Literature, Modern -- 19th century -- Periodicals'
+- GITenberg
+title: Graham's Magazine, Vol. XXXV, No. 6, December 1849
+url: http://www.gutenberg.org/ebooks/55396
